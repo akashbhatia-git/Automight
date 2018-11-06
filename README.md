@@ -1,2 +1,2 @@
 # Automite
-Web UI testing framework.
+A smart, learning UI automation framework, developed by Bhatia brothers.
